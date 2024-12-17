@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "ejerciciosexpres",
+  "version": "1.0.0",
+  "description": "ejercicios express",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidIpialesVasquez/EjerciciosExpress.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "RDIV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidIpialesVasquez/EjerciciosExpress/issues"
+  },
+  "homepage": "https://github.com/DavidIpialesVasquez/EjerciciosExpress#readme"
+}
